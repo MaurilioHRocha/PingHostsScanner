@@ -9,7 +9,7 @@ Um simples script em Python para escanear hosts em uma rede utilizando o protoco
 ## Instruções de Uso
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/mauriliohrocha/BreadcrumbsPingHostsScanner.git
+   git clone https://github.com/mauriliohrocha/PingHostsScanner.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
